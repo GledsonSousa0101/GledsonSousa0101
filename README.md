@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Gledson Sousa 👋</h1>
 
 <p align="center">
-  Graduando em Eng. de Software: 3° semestre | Técnico em Marketing Digital | Apaixonado por Tecnologia e Construção Civil
+  Graduando em Eng. de Software: 5° semestre | Técnico em Marketing Digital | Apaixonado por Tecnologia e Construção Civil
 </p>
 
 ---
