@@ -1,56 +1,36 @@
-<h1 align="center">Olá! Eu sou o Gledson Sousa 👋</h1>
+# Gledson Sousa
 
-<p align="center">
-  Graduando em Eng. de Software: 5° semestre | Técnico em Marketing Digital | Apaixonado por Tecnologia e Construção Civil
-</p>
+Estudante de Engenharia de Software, com interesse em sistemas de gestao,
+produtos para operacoes de campo e ferramentas para construcao civil.
 
----
+Atualmente organizando projetos proprios com foco em:
 
-## 🚀 Sobre mim
+- gestao de obras, orcamentos e produtividade;
+- sistemas web com React, Next.js, TypeScript e Node.js;
+- modelagem de fluxos operacionais, financeiro e estoque;
+- aplicativos e automacoes para uso pratico em campo.
 
-- 💼 Atualmente trabalhando em projetos pessoais nas áreas de construção civil e software
-- 📚 Estudando desenvolvimento web, banco de dados e automações no-code
-- 💡 Interesse especial em soluções para obras e ferramentas de produtividade
-- 🎯 Buscando oportunidades para aplicar tecnologia na engenharia civil
+## Tecnologias
 
----
+- TypeScript, JavaScript, React, Next.js
+- Node.js, APIs REST, Prisma
+- HTML, CSS, Tailwind CSS
+- Git, GitHub, Windows, Linux
+- SQL, modelagem de dados e integracoes
 
-## 🛠️ Tecnologias e Ferramentas
+## Projetos
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
-</div>
+Os repositorios publicos estao sendo revisados antes da publicacao. A ideia e
+manter aqui apenas projetos com README claro, dados ficticios, historico limpo e
+escopo tecnico bem definido.
 
----
+Areas que serao destacadas:
 
-## 📂 Projetos em Destaque
-- https://github.com/GledsonSousa0101/PALM-analysis-nmap.git
-- https://github.com/GledsonSousa0101/Go-obras.git
----
+- gestao de serralheria e plano de corte;
+- gestao de obras e orcamentos;
+- diario escolar e rotinas administrativas;
+- ferramentas de apoio a produtividade.
 
-## 📈 Estatísticas do GitHub
+## Contato
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=github_dark" height="150"/>
-</p>
-
----
-
-## 📫 Como me encontrar
-
-- LinkedIn: [Gledson Sousa](www.linkedin.com/in/gledson-sousa-a76845320)
-- E-mail: [sgledson512@gmail.com](fs0100401@gmail.com)
-- Instagram: [@gledsonsousa_04](https://www.instagram.com/gledsonsousa_04?igsh=MXU3bGptZHR1d2VhcQ==)
-
----
-
-<p align="center">Feito com  por Gledson Sousa</p>
+- LinkedIn: [Gledson Sousa](https://www.linkedin.com/in/gledson-sousa-a76845320)
